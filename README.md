@@ -8,7 +8,7 @@ Passionate about building user-friendly, high-performance websites that seamless
 
 ## 🌟 About Me  
 - 💼 **Currently at:** [Farahosh](https://frahosh.com), contributing to innovative projects with a focus on scalable and optimized web applications.  
-- 🎯 **Core Focus:** UI/UX design, SEO optimization, and responsive web applications.  
+- 🎯 **Core Focus:** SEO optimization, and responsive web applications.  
 - 🌱 **Always learning:** Exploring cutting-edge tools, frameworks, and best practices to keep up with the fast-paced tech industry.  
 
 ---
@@ -17,7 +17,7 @@ Passionate about building user-friendly, high-performance websites that seamless
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS  
 - **SEO Tools:** Google Analytics, Google Search Console, Ahrefs, SEMrush  
-- **Design & Others:** Git, Figma, WordPress  
+- **Design & Others:** Git, Figma, app 
 
 ---
 
