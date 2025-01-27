@@ -7,7 +7,7 @@ Passionate about building user-friendly, high-performance websites that seamless
 ---
 
 ## 🌟 About Me  
-- 💼 **Currently at:** [Farahoosh](https://frahoosh.com), contributing to innovative projects with a focus on scalable and optimized web applications.  
+- 💼 **Currently at:** [Farahosh](https://frahosh.com), contributing to innovative projects with a focus on scalable and optimized web applications.  
 - 🎯 **Core Focus:** UI/UX design, SEO optimization, and responsive web applications.  
 - 🌱 **Always learning:** Exploring cutting-edge tools, frameworks, and best practices to keep up with the fast-paced tech industry.  
 
