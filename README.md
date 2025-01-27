@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mojtaba  
 
-<!--
-**Mojtaba-Baharlouei/Mojtaba-Baharlouei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** | 🧩 **SEO Specialist**  
 
-Here are some ideas to get you started:
+Passionate about building user-friendly, high-performance websites that seamlessly combine aesthetics with functionality. With expertise in **modern frontend technologies** and **SEO strategies**, I strive to create solutions that not only captivate users but also rank at the top of search results.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me  
+- 💼 **Currently at:** [Farahoosh](https://frahoosh.com), contributing to innovative projects with a focus on scalable and optimized web applications.  
+- 🎯 **Core Focus:** UI/UX design, SEO optimization, and responsive web applications.  
+- 🌱 **Always learning:** Exploring cutting-edge tools, frameworks, and best practices to keep up with the fast-paced tech industry.  
+
+---
+
+## 🛠 Technologies & Tools  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS  
+- **SEO Tools:** Google Analytics, Google Search Console, Ahrefs, SEMrush  
+- **Design & Others:** Git, Figma, WordPress  
+
+---
+
+## 🌍 Let's Connect  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mojtaba-baharlouei-4922a62aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BpmLWBsOxQSqdFUTkTYBeNw%3D%3D)  
+- 📧 [Email Me](mailto:mojtababarloiee@gmail.com)  
+
+---
+
+## 🚀 Technologies I Work With  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>  
+
+---
+
+✨ *"Code is like humor. When you have to explain it, it’s bad."*  
